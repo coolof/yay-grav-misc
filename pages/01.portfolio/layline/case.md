@@ -2,13 +2,11 @@
 title: Layline
 lead: Onepage-sida med en god dos modern webbteknik.
 
-background: Ny hemsida till Understandits delägare Layline. Sidan skapades runt samma tid som Google visade upp sin Material Design vilket jag jag väldigt sugen att kolla närmare på.
+background: "Ny hemsida till Understandits delägare Layline. Sidan skapades runt samma tid som Google visade upp sin Material Design vilket jag jag väldigt sugen att kolla närmare på."
 
-my_role: Jag hade helhets-ansvar över projektet. Allt från design till prootyp och vidare in i Drupal. Nyhetsflödet är byggt ihop med Joel Söderberg på Understandit.
+my_role: "Jag hade helhets-ansvar över projektet. Allt från design till prototyp och vidare in i Drupal. Nyhetsflödet är byggt ihop med Joel Söderberg på Understandit."
 
 preview: preview-layline.png
-color: FCC92D
-preview_style: light
 
 order_weight: 17
 
@@ -19,7 +17,8 @@ process:
 
 ![](layline1.jpg)  
 "Startsidan", alltså översta sektionen på sidan. Alla sektioner är minst 100% av skärmens höjd men kan även växa.
-##Processen
+
+##Processen
 Efter ett par korta möten med Layline satte jag upp en design i Photoshop. Eftersom navigation och animationer är svåra att visa den vägen blev nästa logiska steg att sätta upp en enkel prototyp. Denna byggdes i html och med samma less-struktur som på våra Drupal-sidor. På så vis kunde style:n senare enkelt lyftas in i Drupal utan större modifikation.
 
 ![](layline-olle.jpg)  
