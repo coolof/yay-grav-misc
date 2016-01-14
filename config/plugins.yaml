@@ -1,0 +1,9 @@
+highlight:
+  enabled: true
+  theme: github
+
+smatypants:
+  enable: true
+
+advanced-pagecache:
+  enabled: false
