@@ -13,6 +13,8 @@ order_weight: 17
 process:
     markdown: true
     twig: true
+    
+twig_first: true
 ---
 
 ![](layline1.jpg)  
@@ -28,16 +30,15 @@ När sidan lanserades jobbade det två personer på Layline, det här är en av 
 Vi bestämde tidigt att lägga lite extra krut på modern webbteknik för att kunna använda Layline som ett bra exempel på vad man kan göra på webben idag. En stor del i detta är de animationer som förekommer flitigt på sidan. Under finns ett exempel på hur sidans *innehav* visas när besökaren scrollar till den sektionen. Animationerna är inspirerade av Googles Material Design.
 
 <ul class="layline-case-anim animated">
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
-	<li>{{ page.media['anim-item.png'].html() }}</li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
+	<li><img src="{{ theme_url }}/img/anim-item.png" alt="anim-item" /></li>
 </ul>
-
 
 ![](layline-case.png)  
 Case-listning på sidan.
