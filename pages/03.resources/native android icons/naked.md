@@ -2,6 +2,12 @@
 title: Native Android Icons Vector
 lead: Native Android 2.x icons in vector format
 slug: android-native-icons
+
+routes:
+  aliases:
+    - '/resources/android-vector-native'
+    - '/resources/android-native-vector'
+    - '/resources/android-native-icon'
 ---
 ![](android-native-01.png)
 
