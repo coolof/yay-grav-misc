@@ -34,7 +34,7 @@ Eftersom vi inte längre behöver räkna på bredder hit och dit blir griden ext
   box-sizing: border-box;
 }
 /* Grid item, returns % values */
-.grid(@num: 1,@total: @grid-size,@gutter: @grid-gutter, @float: left) {
+.grid(@num: 1, @total: @grid-size, @gutter: @grid-gutter, @float: left) {
   @gridwidth: 100%/@total;
   @width: @gridwidth * @num;
 
@@ -77,7 +77,7 @@ Nedan finns just ett sådant exempel:
 }
 ```
 
-Resultatet av exemplet ovan är en lista där varje element tar upp 1/3 av bredden med 48px mellanrum. Eftersom vi i det här fallet sätter en ny `@grid-gutter` blir det enklast att göra detta som en variabel som båda mixinerna sedan använder. I de flesta fall vill vi så klart använda default.
+Resultatet av exemplet ovan är en lista där varje element tar upp 1/3 av bredden med 48px mellanrum. Eftersom vi i det här fallet sätter en ny `@grid-gutter` blir det enklast att göra detta som en variabel som båda mixinerna sedan använder. I de flesta fall vill vi så klart använda default. Skulle vi istället vilja ha en lista med 4 element i bredd ändrar vi helt enkelt till `.grid(1,4);` istället.
 
 ## Begränsingar
 Eftersom `.grid-container()` sätter en negativ marginal behöver vi se till så att någon av dess parents har en padding eller marginal till kanterna på sidan som är minst lika stor. En alternativ lösning skulle kunna vara `overflow-x: hidden` på någon av dess parents (exempelvis body). Om `@grid-gutter` är 0 behöver vi inte tänka på detta eftersom marginalen också blir 0 (eller närmare bestämt -0).

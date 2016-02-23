@@ -47,6 +47,6 @@ Case-listning på sidan.
 Nyheterna på sidan hämtas via RSS. Layline har även möjlighet att skapa egna nyheter. RSS-syncningen är utvecklad i sammarbete med [Joel Söderberg](http://joelsoderberg.se/) på Understandit och använder [Feeds-modulen](https://www.drupal.org/project/feeds) till Drupal.
 
 ![](layline-news.jpg)  
-Nyhetslistning på "startsidan", inne i filtret finns även möjlighet att filtrera på företag mm.
+Nyhetslistning på "startsidan", inne i arkivet finns även möjlighet att filtrera på företag mm.
 
 ![](layline-map.jpg)

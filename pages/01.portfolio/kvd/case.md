@@ -30,7 +30,7 @@ När intresseanmälan är klar kommer kunden till sitt affärsförslag. Här kan
 När intresseanmälan är klar landar användaren (som då loggat in/skapat ett konto) på sitt affärsförslag. Här kan hen själv se föreslaget reservationspris samt ändra detta.
 
 ## Säljflöde
-Efter signeringen skapas ett säljflöde för bilen inne på kundens sida. I säljflödet kan kunden själv göra vissa inställningar som exempelvis ange bankkonto och boka en inlämningstid. Härifrån kan kunden även se bildens väg genom KVD:s tester så snart den lämnats in.
+Efter signeringen skapas ett säljflöde för bilen inne på kundens sida. I säljflödet kan kunden själv göra vissa inställningar som exempelvis ange bankkonto och boka en inlämningstid. Härifrån kan kunden även följa bildens väg genom KVD:s tester så snart den lämnats in.
 
 ![](kvd-modal.jpg)  
 Modal inne i säljflödet för att boka en inlämningstid.
