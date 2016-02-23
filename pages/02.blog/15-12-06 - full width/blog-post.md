@@ -1,8 +1,8 @@
 ---
 title: Full bredd inuti element med en bredd
 lead: Använd vw för att skapa sektioner på en sida med full bredd oberoende av elementets bredd.
-date: 05-12-2015 00:21
-slug: 2015-12-05-full-bredd
+date: 23-02-2016 09:46
+slug: 2016-02-23-full-bredd
 published: true
 ---
 
