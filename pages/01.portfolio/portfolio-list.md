@@ -1,6 +1,6 @@
 ---
 title: Olof Brickarp
-subtitle: Teknisk Webdesigner
+subtitle: Teknisk Webbdesigner
 menu: Portfolio
 slug: portfolio
 body_class: page-portfolio
