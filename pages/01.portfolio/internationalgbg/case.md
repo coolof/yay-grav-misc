@@ -7,6 +7,7 @@ preview: preview-gbg.png
 color: 418ecd
 preview_style: light
 size: small
+link: http://international.goteborg.se
 
 order_weight: 15
 ---

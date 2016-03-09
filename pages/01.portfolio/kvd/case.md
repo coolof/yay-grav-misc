@@ -10,6 +10,8 @@ preview: preview-kvd2.png
 color: FCC92D
 preview_style: light
 
+link: https://www.kvd.se/saljbilen
+
 order_weight: 5
 ---
 

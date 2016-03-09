@@ -7,7 +7,7 @@ my_role: Brainstorma fram hur sidan borde fungera, ta fram design samt prototyp.
 color: 59afbe
 preview_style: light
 size: small
-case_url: http://www.zerovisiontool.com/timeline
+link: http://www.zerovisiontool.com/timeline
 
 order_weight: 20
 ---
